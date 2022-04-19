@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("Haloo jancuk")
+        println("ini branch contoh")
     }
 }
