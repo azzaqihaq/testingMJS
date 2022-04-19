@@ -10,5 +10,7 @@ class MainActivity : AppCompatActivity() {
 
         println("Haloo jancuk")
         println("ini branch contoh")
+        println("ini branch contoh")
+
     }
 }
