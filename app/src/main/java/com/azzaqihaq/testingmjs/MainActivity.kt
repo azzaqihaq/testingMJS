@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
         println("ini branch contoh")
         println("ini branch contoh")
         println("ini perubahan contoh")
+        println("ini branch contoh")
 
     }
 }
